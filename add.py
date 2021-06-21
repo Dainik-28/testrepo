@@ -1,0 +1,6 @@
+print("add two no.")
+x = input("enter 1st no.")
+y = input("enter 2nd no.")
+print(x + y)
+z = float(x) + float(y)
+print(z)
