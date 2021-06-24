@@ -1,7 +1,7 @@
 largest = None
 smallest = None
 while True:
-    num = input("Enter a number: ")
+    num = input("Enter a no: ")
     if num == "done" : break
     try:
         no = int(num)
